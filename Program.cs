@@ -569,11 +569,6 @@ namespace LeetCodeTasks
 
 
 
-            for(int i = 0; i < res.Count; i++)
-            {
-                Console.WriteLine(res[i]);
-            }
-
 
 
         }
